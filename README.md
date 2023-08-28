@@ -1,2 +1,2 @@
 # project1
-# this project is based on react platform and the begning of github colaboration made by suleyman 
+# this project is based on html and css  and making on portifolio and the begning of github colaboration made by ... 
