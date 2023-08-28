@@ -1,7 +1,8 @@
 h1{
-    font-size: large;
+    font-size: 32;
     font-style: italic;
     transform: rotateX('75');
+    text-align: center;
 }
 body{
     background-color:aquamarine;
